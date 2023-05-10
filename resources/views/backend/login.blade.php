@@ -76,9 +76,7 @@
                   
 
                   </div>
-                  <button class="mt-5 btn btn-primary btn-block text-uppercase">
-                    Forgot your password?
-                  </button>
+                  
                 </form>
               </div>
             </div>
